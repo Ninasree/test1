@@ -2,5 +2,5 @@
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
-<img src = "images/git01.jpg" alt= "หนังสือ">
+<img src = "images/git01.jpg" alt= "หนังสือ" width=450 height=500 >
 
