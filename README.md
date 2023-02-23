@@ -4,5 +4,5 @@
 <br>คลิกที่รูปเพื่อดูรายละเอียด 
 <br>
 <a href="https://www.facebook.com/Aseemahsudan/photos/a.1636123940074192/1775646069455311/">
-<img src = "images/git02.jpg" alt= "หนังสือ" width=350 height=400></a>
+<img src = "images/git02.png" alt= "หนังสือ" width=350 height=400></a>
 <br>คลิกที่รูปเพื่อดูรายละเอียด 
